@@ -3,7 +3,6 @@
 <p align="center">
 
 Esta aplicación esta hecha con:
-
 <br />
 - Arquitectura MVVM y clean code
 - Fragments
