@@ -4,7 +4,6 @@
 
 Esta aplicación esta hecha con:
 
-El temario del curso será:
 <br />
 - Arquitectura MVVM y clean code
 - Fragments
