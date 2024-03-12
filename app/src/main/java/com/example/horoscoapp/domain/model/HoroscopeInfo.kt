@@ -2,7 +2,7 @@ package com.example.horoscoapp.domain.model
 
 import com.example.horoscoapp.R
 
-sealed class HoroscopeInfo(val name:Int, val img:Int){
+sealed class HoroscopeInfo(val img:Int, val name:Int){
     data object Aries:HoroscopeInfo(R.drawable.aries, R.string.aries)
     data object Taurus:HoroscopeInfo(R.drawable.tauro, R.string.taurus)
     data object Gemini: HoroscopeInfo(R.drawable.geminis, R.string.gemini)
