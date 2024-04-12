@@ -10,7 +10,7 @@ Esta aplicación esta hecha con:
 - Navigation Component
 - Gradle KTS
 - Inyección de dependencias Dagger Hilt
-- StateFlow y corrutinas
+- MVVM - StateFlow y corrutinas
 - RecyclerView
 - Retrofit, interceptors y mappers
 - Intents
