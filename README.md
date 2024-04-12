@@ -1,20 +1,21 @@
 # Aplicación de Horóscopo - Android
 
 <p align="center">
+App en construcción
 
 Esta aplicación esta hecha con:
 <br />
-- Arquitectura MVVM y clean code
+- Arquitectura Clean y filosofías clean code
 - Fragments
 - Navigation Component
 - Gradle KTS
-- Inyección de dependencias
+- Inyección de dependencias Dagger Hilt
 - StateFlow y corrutinas
 - RecyclerView
 - Retrofit, interceptors y mappers
 - Intents
 - Camera X
 - Animaciones
-- UnitTest y UITest
+- UnitTest y UITest (pendiente)
 
 ---
